@@ -17,7 +17,7 @@ pkg install git
 ```
 Clone the repository:
 ```shell script
-git clone https://github.com/ch3cooh1337/bmb.git
+git clone https://github.com/ch3cooh1337/BD-Bomber.git
 ```
 Change directory to Bomber:
 ```shell script
@@ -39,7 +39,7 @@ python bomber.py
 ### 🐧 Linux (Kali)
 Clone the repository:
 ```shell script
-git clone https://github.com/ch3cooh1337/bmb.git
+git clone https://github.com/ch3cooh1337/BD-Bomber.git
 ```
 Change directory to Bomber:
 ```shell script
@@ -60,8 +60,10 @@ python bomber.py
 
 ### 💻 Windows
 
+Download the script from here [https://github.com/ch3cooh1337/BD-Bomber](https://github.com/ch3cooh1337/BD-Bomber/archive/refs/heads/main.zip)
+
 ```shell script
-Download the repository from https://github.com/ch3cooh1337/bmb/archive/refs/heads/main.zip
+Download the repository from https://github.com/ch3cooh1337/BD-Bomber/archive/refs/heads/main.zip
 ```
 
 ```shell script
