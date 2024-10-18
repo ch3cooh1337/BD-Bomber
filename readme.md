@@ -93,7 +93,7 @@ Note:
 If you enter 1 in the bombing amount, it will send 2 SMS.
 If you enter 1000, it will send 2000 SMS.
 🛠️ Author and Creator
-@CH3COOH1337
+[@CH3COOH1337](https://t.me/ch3cooh1337)
 
 ## Join the Community:
-[Telegram Channel](https://t.me/ch3cooh1337)
+[Telegram Channel](https://t.me/crystalhackers)
